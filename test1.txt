@@ -1,2 +1,2 @@
-City : "chennai"
+city : "chennai"
 
